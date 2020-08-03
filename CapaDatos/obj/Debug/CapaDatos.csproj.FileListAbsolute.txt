@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Dell\source\repos\Lab7_8GuillermoBran\CapaDatos\obj\Debug\CapaDatos.pdb
